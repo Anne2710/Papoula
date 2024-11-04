@@ -5,3 +5,11 @@ body{
     font-family: "Playfair Display", serif;
     margin-bottom: 100px;
 }
+
+.chamada{
+background: rgb(202, 67, 89);
+margin-top: 80px;
+margin-bottom: 80px;
+display: flex;
+justify-content: center;
+}
