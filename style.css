@@ -1,6 +1,6 @@
 body{
     background: pink;
-    color: rgb(248, 155, 171);
+    color: hwb(0 100% 0%);
     margin: 0px;
     font-family: "Playfair Display", serif;
     margin-bottom: 100px;
@@ -12,4 +12,10 @@ margin-top: 80px;
 margin-bottom: 80px;
 display: flex;
 justify-content: center;
+}
+header{
+color: bisque;
+font-size: 40px;
+margin-bottom: 3px;
+padding: 20px;
 }
